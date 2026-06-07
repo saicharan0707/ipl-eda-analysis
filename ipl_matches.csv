@@ -1,0 +1,901 @@
+season,team1,team2,winner,win_by_runs,win_by_wickets,venue,toss_winner,toss_decision,player_of_match
+2008,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,72,0,Feroz Shah Kotla,Rajasthan Royals,bat,Player19
+2008,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,0,5,Chinnaswamy Stadium,Royal Challengers Bangalore,field,Player3
+2008,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,0,6,MA Chidambaram Stadium,Sunrisers Hyderabad,field,Player21
+2008,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,0,9,Wankhede Stadium,Mumbai Indians,bat,Player42
+2008,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,0,3,Chinnaswamy Stadium,Punjab Kings,field,Player3
+2008,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,73,0,MA Chidambaram Stadium,Royal Challengers Bangalore,bat,Player14
+2008,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,0,5,MA Chidambaram Stadium,Royal Challengers Bangalore,field,Player47
+2008,Kolkata Knight Riders,Punjab Kings,Punjab Kings,8,0,Eden Gardens,Punjab Kings,bat,Player36
+2008,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,0,6,Rajiv Gandhi Stadium,Sunrisers Hyderabad,field,Player29
+2008,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,0,2,MA Chidambaram Stadium,Chennai Super Kings,field,Player14
+2008,Rajasthan Royals,Punjab Kings,Punjab Kings,0,7,Chinnaswamy Stadium,Rajasthan Royals,field,Player40
+2008,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,53,0,MA Chidambaram Stadium,Sunrisers Hyderabad,field,Player45
+2008,Mumbai Indians,Delhi Capitals,Mumbai Indians,65,0,Wankhede Stadium,Mumbai Indians,bat,Player24
+2008,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,0,3,Wankhede Stadium,Sunrisers Hyderabad,bat,Player35
+2008,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,0,7,MA Chidambaram Stadium,Mumbai Indians,field,Player7
+2008,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,48,0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,bat,Player35
+2008,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,65,0,Eden Gardens,Kolkata Knight Riders,bat,Player14
+2008,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,0,7,Rajiv Gandhi Stadium,Royal Challengers Bangalore,bat,Player9
+2008,Rajasthan Royals,Punjab Kings,Punjab Kings,0,3,Wankhede Stadium,Punjab Kings,bat,Player32
+2008,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,15,0,Eden Gardens,Kolkata Knight Riders,field,Player13
+2008,Punjab Kings,Rajasthan Royals,Punjab Kings,86,0,Chinnaswamy Stadium,Rajasthan Royals,field,Player45
+2008,Delhi Capitals,Mumbai Indians,Delhi Capitals,0,4,Rajiv Gandhi Stadium,Mumbai Indians,bat,Player28
+2008,Mumbai Indians,Punjab Kings,Punjab Kings,1,0,Wankhede Stadium,Mumbai Indians,field,Player13
+2008,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,0,8,Eden Gardens,Mumbai Indians,field,Player37
+2008,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,0,8,Eden Gardens,Kolkata Knight Riders,field,Player32
+2008,Punjab Kings,Mumbai Indians,Mumbai Indians,62,0,Wankhede Stadium,Mumbai Indians,field,Player12
+2008,Delhi Capitals,Punjab Kings,Punjab Kings,56,0,Wankhede Stadium,Delhi Capitals,bat,Player2
+2008,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,96,0,Wankhede Stadium,Chennai Super Kings,bat,Player2
+2008,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,0,6,Chinnaswamy Stadium,Sunrisers Hyderabad,bat,Player17
+2008,Rajasthan Royals,Delhi Capitals,Delhi Capitals,98,0,Rajiv Gandhi Stadium,Delhi Capitals,bat,Player48
+2008,Punjab Kings,Mumbai Indians,Punjab Kings,0,6,Feroz Shah Kotla,Punjab Kings,field,Player36
+2008,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,19,0,Chinnaswamy Stadium,Chennai Super Kings,bat,Player41
+2008,Mumbai Indians,Punjab Kings,Punjab Kings,0,1,Eden Gardens,Punjab Kings,bat,Player25
+2008,Chennai Super Kings,Punjab Kings,Chennai Super Kings,0,3,Chinnaswamy Stadium,Punjab Kings,field,Player48
+2008,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,2,0,Wankhede Stadium,Sunrisers Hyderabad,field,Player12
+2008,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,9,0,Wankhede Stadium,Sunrisers Hyderabad,bat,Player48
+2008,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,0,6,Wankhede Stadium,Royal Challengers Bangalore,field,Player11
+2008,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,0,4,Rajiv Gandhi Stadium,Mumbai Indians,field,Player25
+2008,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,0,2,MA Chidambaram Stadium,Mumbai Indians,bat,Player16
+2008,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,68,0,Wankhede Stadium,Mumbai Indians,bat,Player48
+2008,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,33,0,Chinnaswamy Stadium,Kolkata Knight Riders,bat,Player22
+2008,Rajasthan Royals,Delhi Capitals,Delhi Capitals,0,6,Rajiv Gandhi Stadium,Rajasthan Royals,bat,Player8
+2008,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,30,0,Wankhede Stadium,Kolkata Knight Riders,bat,Player33
+2008,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,0,3,Chinnaswamy Stadium,Sunrisers Hyderabad,field,Player49
+2008,Punjab Kings,Mumbai Indians,Mumbai Indians,0,5,Rajiv Gandhi Stadium,Punjab Kings,field,Player41
+2008,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,0,5,Eden Gardens,Delhi Capitals,bat,Player21
+2008,Punjab Kings,Rajasthan Royals,Punjab Kings,0,3,MA Chidambaram Stadium,Punjab Kings,field,Player31
+2008,Delhi Capitals,Chennai Super Kings,Delhi Capitals,0,8,MA Chidambaram Stadium,Chennai Super Kings,bat,Player22
+2008,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,2,0,MA Chidambaram Stadium,Rajasthan Royals,field,Player33
+2008,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,0,7,Feroz Shah Kotla,Kolkata Knight Riders,bat,Player26
+2008,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,0,7,Wankhede Stadium,Chennai Super Kings,bat,Player20
+2008,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,0,3,Chinnaswamy Stadium,Rajasthan Royals,field,Player32
+2008,Rajasthan Royals,Punjab Kings,Punjab Kings,25,0,MA Chidambaram Stadium,Rajasthan Royals,field,Player22
+2008,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,52,0,MA Chidambaram Stadium,Royal Challengers Bangalore,bat,Player43
+2008,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,0,5,Chinnaswamy Stadium,Delhi Capitals,field,Player5
+2008,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,96,0,Chinnaswamy Stadium,Kolkata Knight Riders,bat,Player35
+2008,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,30,0,Eden Gardens,Rajasthan Royals,field,Player19
+2008,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,0,5,MA Chidambaram Stadium,Kolkata Knight Riders,field,Player23
+2008,Rajasthan Royals,Mumbai Indians,Mumbai Indians,1,0,MA Chidambaram Stadium,Mumbai Indians,bat,Player47
+2008,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,0,9,Feroz Shah Kotla,Chennai Super Kings,bat,Player16
+2009,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,69,0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,bat,Player3
+2009,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,86,0,Wankhede Stadium,Kolkata Knight Riders,field,Player28
+2009,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,0,4,Feroz Shah Kotla,Punjab Kings,field,Player26
+2009,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,0,1,Rajiv Gandhi Stadium,Delhi Capitals,bat,Player23
+2009,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,34,0,Chinnaswamy Stadium,Chennai Super Kings,field,Player19
+2009,Chennai Super Kings,Mumbai Indians,Mumbai Indians,4,0,MA Chidambaram Stadium,Chennai Super Kings,field,Player32
+2009,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,0,2,Eden Gardens,Sunrisers Hyderabad,bat,Player33
+2009,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,12,0,Eden Gardens,Sunrisers Hyderabad,bat,Player40
+2009,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,13,0,Chinnaswamy Stadium,Chennai Super Kings,field,Player2
+2009,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,87,0,Wankhede Stadium,Royal Challengers Bangalore,field,Player29
+2009,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,0,2,Eden Gardens,Chennai Super Kings,bat,Player4
+2009,Chennai Super Kings,Delhi Capitals,Delhi Capitals,75,0,Feroz Shah Kotla,Delhi Capitals,field,Player25
+2009,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,0,5,Wankhede Stadium,Delhi Capitals,field,Player35
+2009,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,0,2,Wankhede Stadium,Mumbai Indians,field,Player24
+2009,Rajasthan Royals,Delhi Capitals,Delhi Capitals,12,0,Wankhede Stadium,Rajasthan Royals,bat,Player23
+2009,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,0,1,Wankhede Stadium,Kolkata Knight Riders,field,Player48
+2009,Mumbai Indians,Rajasthan Royals,Mumbai Indians,19,0,Wankhede Stadium,Rajasthan Royals,field,Player41
+2009,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,28,0,Rajiv Gandhi Stadium,Royal Challengers Bangalore,field,Player19
+2009,Chennai Super Kings,Punjab Kings,Punjab Kings,69,0,Eden Gardens,Punjab Kings,bat,Player21
+2009,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,0,9,Feroz Shah Kotla,Kolkata Knight Riders,field,Player39
+2009,Delhi Capitals,Punjab Kings,Punjab Kings,35,0,Feroz Shah Kotla,Delhi Capitals,bat,Player18
+2009,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,0,1,Feroz Shah Kotla,Kolkata Knight Riders,bat,Player46
+2009,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,0,2,Feroz Shah Kotla,Sunrisers Hyderabad,bat,Player38
+2009,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,0,4,Wankhede Stadium,Royal Challengers Bangalore,bat,Player25
+2009,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,0,3,Feroz Shah Kotla,Kolkata Knight Riders,field,Player39
+2009,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,39,0,Rajiv Gandhi Stadium,Royal Challengers Bangalore,bat,Player13
+2009,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,0,4,Chinnaswamy Stadium,Sunrisers Hyderabad,bat,Player41
+2009,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,92,0,Rajiv Gandhi Stadium,Rajasthan Royals,bat,Player49
+2009,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,6,0,MA Chidambaram Stadium,Chennai Super Kings,bat,Player32
+2009,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,80,0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,bat,Player37
+2009,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,0,9,MA Chidambaram Stadium,Kolkata Knight Riders,bat,Player49
+2009,Delhi Capitals,Punjab Kings,Delhi Capitals,54,0,Rajiv Gandhi Stadium,Delhi Capitals,field,Player23
+2009,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,0,8,Rajiv Gandhi Stadium,Kolkata Knight Riders,field,Player28
+2009,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,0,8,MA Chidambaram Stadium,Chennai Super Kings,field,Player28
+2009,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,0,6,Wankhede Stadium,Kolkata Knight Riders,bat,Player20
+2009,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,13,0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,bat,Player6
+2009,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,47,0,Wankhede Stadium,Kolkata Knight Riders,field,Player30
+2009,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,33,0,Rajiv Gandhi Stadium,Chennai Super Kings,field,Player32
+2009,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,26,0,Wankhede Stadium,Mumbai Indians,bat,Player27
+2009,Mumbai Indians,Delhi Capitals,Mumbai Indians,0,9,Eden Gardens,Mumbai Indians,bat,Player21
+2009,Punjab Kings,Rajasthan Royals,Rajasthan Royals,0,1,Feroz Shah Kotla,Punjab Kings,bat,Player38
+2009,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,53,0,Feroz Shah Kotla,Delhi Capitals,field,Player19
+2009,Mumbai Indians,Delhi Capitals,Delhi Capitals,1,0,Eden Gardens,Mumbai Indians,bat,Player4
+2009,Delhi Capitals,Mumbai Indians,Delhi Capitals,0,2,Chinnaswamy Stadium,Delhi Capitals,field,Player39
+2009,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,0,6,Eden Gardens,Chennai Super Kings,field,Player12
+2009,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,94,0,Rajiv Gandhi Stadium,Mumbai Indians,bat,Player17
+2009,Punjab Kings,Rajasthan Royals,Punjab Kings,79,0,Feroz Shah Kotla,Punjab Kings,field,Player2
+2009,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,0,2,Rajiv Gandhi Stadium,Kolkata Knight Riders,field,Player18
+2009,Delhi Capitals,Punjab Kings,Delhi Capitals,63,0,MA Chidambaram Stadium,Punjab Kings,bat,Player38
+2009,Mumbai Indians,Punjab Kings,Punjab Kings,0,7,MA Chidambaram Stadium,Mumbai Indians,bat,Player5
+2009,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,0,1,MA Chidambaram Stadium,Sunrisers Hyderabad,field,Player20
+2009,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,0,5,MA Chidambaram Stadium,Punjab Kings,field,Player43
+2009,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,23,0,Eden Gardens,Kolkata Knight Riders,field,Player8
+2009,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,67,0,Eden Gardens,Kolkata Knight Riders,bat,Player32
+2009,Chennai Super Kings,Delhi Capitals,Delhi Capitals,19,0,Feroz Shah Kotla,Chennai Super Kings,field,Player28
+2009,Chennai Super Kings,Delhi Capitals,Delhi Capitals,70,0,Wankhede Stadium,Chennai Super Kings,bat,Player12
+2009,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,78,0,MA Chidambaram Stadium,Chennai Super Kings,bat,Player9
+2009,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,86,0,Rajiv Gandhi Stadium,Chennai Super Kings,bat,Player48
+2009,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,0,1,Wankhede Stadium,Sunrisers Hyderabad,bat,Player15
+2009,Rajasthan Royals,Punjab Kings,Punjab Kings,0,7,Rajiv Gandhi Stadium,Punjab Kings,field,Player45
+2010,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,0,3,Eden Gardens,Chennai Super Kings,bat,Player46
+2010,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,18,0,MA Chidambaram Stadium,Punjab Kings,bat,Player15
+2010,Punjab Kings,Mumbai Indians,Punjab Kings,28,0,MA Chidambaram Stadium,Punjab Kings,bat,Player17
+2010,Rajasthan Royals,Delhi Capitals,Delhi Capitals,0,9,Wankhede Stadium,Rajasthan Royals,field,Player25
+2010,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,18,0,Chinnaswamy Stadium,Kolkata Knight Riders,field,Player34
+2010,Rajasthan Royals,Mumbai Indians,Mumbai Indians,42,0,Wankhede Stadium,Rajasthan Royals,field,Player26
+2010,Punjab Kings,Chennai Super Kings,Punjab Kings,0,6,Feroz Shah Kotla,Punjab Kings,bat,Player22
+2010,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,4,0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,field,Player30
+2010,Rajasthan Royals,Punjab Kings,Rajasthan Royals,3,0,Eden Gardens,Rajasthan Royals,field,Player37
+2010,Kolkata Knight Riders,Punjab Kings,Punjab Kings,0,4,Chinnaswamy Stadium,Kolkata Knight Riders,field,Player15
+2010,Delhi Capitals,Rajasthan Royals,Delhi Capitals,0,8,Rajiv Gandhi Stadium,Delhi Capitals,field,Player2
+2010,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,0,3,Feroz Shah Kotla,Royal Challengers Bangalore,bat,Player6
+2010,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,84,0,Wankhede Stadium,Rajasthan Royals,bat,Player12
+2010,Rajasthan Royals,Mumbai Indians,Mumbai Indians,0,6,Feroz Shah Kotla,Mumbai Indians,bat,Player36
+2010,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,6,0,MA Chidambaram Stadium,Royal Challengers Bangalore,field,Player5
+2010,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,0,8,MA Chidambaram Stadium,Chennai Super Kings,bat,Player37
+2010,Mumbai Indians,Chennai Super Kings,Mumbai Indians,15,0,Rajiv Gandhi Stadium,Mumbai Indians,bat,Player30
+2010,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,0,2,Rajiv Gandhi Stadium,Rajasthan Royals,field,Player11
+2010,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,35,0,Wankhede Stadium,Royal Challengers Bangalore,field,Player22
+2010,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,14,0,Chinnaswamy Stadium,Delhi Capitals,bat,Player21
+2010,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,78,0,MA Chidambaram Stadium,Delhi Capitals,field,Player25
+2010,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,0,8,Rajiv Gandhi Stadium,Chennai Super Kings,bat,Player38
+2010,Mumbai Indians,Punjab Kings,Mumbai Indians,97,0,Wankhede Stadium,Mumbai Indians,bat,Player47
+2010,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,51,0,Eden Gardens,Chennai Super Kings,field,Player3
+2010,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,0,4,Feroz Shah Kotla,Rajasthan Royals,field,Player30
+2010,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,38,0,Wankhede Stadium,Rajasthan Royals,bat,Player37
+2010,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,0,4,Rajiv Gandhi Stadium,Punjab Kings,field,Player5
+2010,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,0,6,Feroz Shah Kotla,Royal Challengers Bangalore,bat,Player36
+2010,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,29,0,Feroz Shah Kotla,Sunrisers Hyderabad,bat,Player4
+2010,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,95,0,Eden Gardens,Kolkata Knight Riders,field,Player36
+2010,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,20,0,Eden Gardens,Kolkata Knight Riders,field,Player40
+2010,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,47,0,MA Chidambaram Stadium,Rajasthan Royals,bat,Player12
+2010,Chennai Super Kings,Delhi Capitals,Delhi Capitals,0,2,Wankhede Stadium,Chennai Super Kings,bat,Player40
+2010,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0,4,Chinnaswamy Stadium,Kolkata Knight Riders,field,Player37
+2010,Punjab Kings,Rajasthan Royals,Rajasthan Royals,92,0,MA Chidambaram Stadium,Punjab Kings,field,Player29
+2010,Delhi Capitals,Mumbai Indians,Mumbai Indians,23,0,Wankhede Stadium,Mumbai Indians,bat,Player21
+2010,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,0,7,Wankhede Stadium,Chennai Super Kings,bat,Player40
+2010,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,53,0,Wankhede Stadium,Sunrisers Hyderabad,field,Player26
+2010,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,0,9,MA Chidambaram Stadium,Mumbai Indians,field,Player2
+2010,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,0,1,Eden Gardens,Rajasthan Royals,field,Player24
+2010,Mumbai Indians,Punjab Kings,Punjab Kings,0,5,Wankhede Stadium,Mumbai Indians,bat,Player43
+2010,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,0,5,Wankhede Stadium,Delhi Capitals,bat,Player20
+2010,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,0,6,Chinnaswamy Stadium,Mumbai Indians,bat,Player40
+2010,Mumbai Indians,Punjab Kings,Mumbai Indians,0,7,Eden Gardens,Mumbai Indians,field,Player19
+2010,Delhi Capitals,Rajasthan Royals,Delhi Capitals,45,0,Feroz Shah Kotla,Rajasthan Royals,field,Player40
+2010,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,0,3,MA Chidambaram Stadium,Chennai Super Kings,field,Player28
+2010,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,0,3,Chinnaswamy Stadium,Mumbai Indians,field,Player29
+2010,Rajasthan Royals,Punjab Kings,Rajasthan Royals,0,3,Rajiv Gandhi Stadium,Punjab Kings,field,Player33
+2010,Rajasthan Royals,Punjab Kings,Punjab Kings,0,2,Feroz Shah Kotla,Punjab Kings,bat,Player3
+2010,Punjab Kings,Rajasthan Royals,Punjab Kings,72,0,Rajiv Gandhi Stadium,Punjab Kings,bat,Player37
+2010,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,0,8,MA Chidambaram Stadium,Royal Challengers Bangalore,field,Player24
+2010,Delhi Capitals,Rajasthan Royals,Delhi Capitals,0,4,Chinnaswamy Stadium,Delhi Capitals,field,Player21
+2010,Delhi Capitals,Punjab Kings,Delhi Capitals,0,2,MA Chidambaram Stadium,Delhi Capitals,bat,Player23
+2010,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,19,0,Chinnaswamy Stadium,Sunrisers Hyderabad,field,Player18
+2010,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,20,0,Eden Gardens,Mumbai Indians,bat,Player2
+2010,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,0,4,Feroz Shah Kotla,Royal Challengers Bangalore,field,Player30
+2010,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,0,3,Chinnaswamy Stadium,Royal Challengers Bangalore,field,Player44
+2010,Punjab Kings,Mumbai Indians,Mumbai Indians,0,8,Eden Gardens,Mumbai Indians,bat,Player32
+2010,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,14,0,Wankhede Stadium,Royal Challengers Bangalore,field,Player45
+2010,Mumbai Indians,Punjab Kings,Mumbai Indians,0,6,Eden Gardens,Punjab Kings,field,Player26
+2011,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,0,7,Feroz Shah Kotla,Chennai Super Kings,field,Player18
+2011,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,0,9,Rajiv Gandhi Stadium,Sunrisers Hyderabad,bat,Player37
+2011,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,0,7,Feroz Shah Kotla,Rajasthan Royals,field,Player21
+2011,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,0,8,MA Chidambaram Stadium,Mumbai Indians,bat,Player7
+2011,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,0,5,Chinnaswamy Stadium,Delhi Capitals,field,Player46
+2011,Punjab Kings,Chennai Super Kings,Chennai Super Kings,0,1,Eden Gardens,Punjab Kings,field,Player26
+2011,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,0,4,Wankhede Stadium,Sunrisers Hyderabad,bat,Player40
+2011,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,24,0,Rajiv Gandhi Stadium,Rajasthan Royals,bat,Player33
+2011,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,0,3,Eden Gardens,Sunrisers Hyderabad,bat,Player17
+2011,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,98,0,Wankhede Stadium,Royal Challengers Bangalore,field,Player9
+2011,Mumbai Indians,Chennai Super Kings,Mumbai Indians,61,0,Eden Gardens,Chennai Super Kings,field,Player25
+2011,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,0,5,Chinnaswamy Stadium,Royal Challengers Bangalore,bat,Player30
+2011,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,44,0,Eden Gardens,Delhi Capitals,bat,Player17
+2011,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,47,0,Chinnaswamy Stadium,Mumbai Indians,field,Player24
+2011,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,87,0,Feroz Shah Kotla,Punjab Kings,field,Player6
+2011,Punjab Kings,Mumbai Indians,Mumbai Indians,12,0,Eden Gardens,Mumbai Indians,bat,Player45
+2011,Chennai Super Kings,Punjab Kings,Punjab Kings,0,7,Wankhede Stadium,Chennai Super Kings,field,Player21
+2011,Delhi Capitals,Chennai Super Kings,Delhi Capitals,0,5,Wankhede Stadium,Delhi Capitals,field,Player8
+2011,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,82,0,Rajiv Gandhi Stadium,Kolkata Knight Riders,bat,Player35
+2011,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,17,0,Rajiv Gandhi Stadium,Chennai Super Kings,field,Player35
+2011,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,0,3,Feroz Shah Kotla,Kolkata Knight Riders,field,Player26
+2011,Rajasthan Royals,Punjab Kings,Punjab Kings,15,0,Wankhede Stadium,Punjab Kings,bat,Player22
+2011,Mumbai Indians,Delhi Capitals,Delhi Capitals,16,0,Feroz Shah Kotla,Delhi Capitals,field,Player2
+2011,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,0,7,Feroz Shah Kotla,Rajasthan Royals,field,Player32
+2011,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,46,0,Chinnaswamy Stadium,Punjab Kings,field,Player49
+2011,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,0,9,Chinnaswamy Stadium,Sunrisers Hyderabad,bat,Player10
+2011,Delhi Capitals,Mumbai Indians,Delhi Capitals,84,0,Feroz Shah Kotla,Delhi Capitals,field,Player49
+2011,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,0,2,Chinnaswamy Stadium,Delhi Capitals,field,Player37
+2011,Mumbai Indians,Chennai Super Kings,Mumbai Indians,0,9,Wankhede Stadium,Mumbai Indians,field,Player4
+2011,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,61,0,Feroz Shah Kotla,Kolkata Knight Riders,field,Player6
+2011,Rajasthan Royals,Punjab Kings,Punjab Kings,0,2,Wankhede Stadium,Rajasthan Royals,field,Player4
+2011,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,54,0,Feroz Shah Kotla,Royal Challengers Bangalore,bat,Player46
+2011,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,90,0,Wankhede Stadium,Chennai Super Kings,field,Player3
+2011,Punjab Kings,Delhi Capitals,Punjab Kings,54,0,Wankhede Stadium,Punjab Kings,bat,Player20
+2011,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,35,0,MA Chidambaram Stadium,Mumbai Indians,field,Player17
+2011,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,13,0,Feroz Shah Kotla,Punjab Kings,bat,Player9
+2011,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,0,9,Eden Gardens,Kolkata Knight Riders,field,Player29
+2011,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,0,9,Wankhede Stadium,Mumbai Indians,bat,Player34
+2011,Punjab Kings,Kolkata Knight Riders,Punjab Kings,0,8,Eden Gardens,Punjab Kings,field,Player26
+2011,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,0,5,Feroz Shah Kotla,Chennai Super Kings,field,Player40
+2011,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,58,0,Eden Gardens,Rajasthan Royals,field,Player34
+2011,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,33,0,Rajiv Gandhi Stadium,Royal Challengers Bangalore,bat,Player16
+2011,Punjab Kings,Kolkata Knight Riders,Punjab Kings,59,0,Wankhede Stadium,Punjab Kings,bat,Player45
+2011,Mumbai Indians,Delhi Capitals,Delhi Capitals,0,6,Chinnaswamy Stadium,Mumbai Indians,bat,Player43
+2011,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,31,0,MA Chidambaram Stadium,Chennai Super Kings,field,Player43
+2011,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,82,0,Chinnaswamy Stadium,Rajasthan Royals,field,Player13
+2011,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,0,1,Wankhede Stadium,Sunrisers Hyderabad,field,Player31
+2011,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,0,3,Rajiv Gandhi Stadium,Chennai Super Kings,field,Player7
+2011,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0,5,Feroz Shah Kotla,Mumbai Indians,field,Player20
+2011,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,0,1,Chinnaswamy Stadium,Kolkata Knight Riders,bat,Player10
+2011,Delhi Capitals,Mumbai Indians,Mumbai Indians,0,8,Eden Gardens,Mumbai Indians,field,Player14
+2011,Punjab Kings,Rajasthan Royals,Punjab Kings,0,4,Eden Gardens,Punjab Kings,field,Player12
+2011,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,6,0,Eden Gardens,Rajasthan Royals,field,Player23
+2011,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,0,4,Wankhede Stadium,Chennai Super Kings,bat,Player41
+2011,Rajasthan Royals,Punjab Kings,Rajasthan Royals,29,0,Eden Gardens,Punjab Kings,field,Player2
+2011,Rajasthan Royals,Delhi Capitals,Delhi Capitals,0,3,Wankhede Stadium,Delhi Capitals,field,Player28
+2011,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,0,5,Eden Gardens,Delhi Capitals,field,Player19
+2011,Mumbai Indians,Delhi Capitals,Mumbai Indians,1,0,MA Chidambaram Stadium,Delhi Capitals,field,Player15
+2011,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,0,1,Wankhede Stadium,Delhi Capitals,field,Player18
+2011,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,72,0,Chinnaswamy Stadium,Kolkata Knight Riders,bat,Player17
+2012,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,27,0,Rajiv Gandhi Stadium,Delhi Capitals,field,Player7
+2012,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,0,5,Chinnaswamy Stadium,Delhi Capitals,bat,Player20
+2012,Delhi Capitals,Punjab Kings,Delhi Capitals,0,7,Wankhede Stadium,Punjab Kings,field,Player20
+2012,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0,9,Chinnaswamy Stadium,Kolkata Knight Riders,field,Player2
+2012,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,81,0,Feroz Shah Kotla,Royal Challengers Bangalore,field,Player18
+2012,Delhi Capitals,Punjab Kings,Delhi Capitals,0,9,Wankhede Stadium,Punjab Kings,field,Player41
+2012,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,88,0,Wankhede Stadium,Punjab Kings,field,Player46
+2012,Punjab Kings,Rajasthan Royals,Rajasthan Royals,0,6,Chinnaswamy Stadium,Rajasthan Royals,bat,Player10
+2012,Punjab Kings,Chennai Super Kings,Chennai Super Kings,2,0,Wankhede Stadium,Punjab Kings,bat,Player13
+2012,Delhi Capitals,Mumbai Indians,Delhi Capitals,0,6,MA Chidambaram Stadium,Mumbai Indians,bat,Player26
+2012,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,98,0,MA Chidambaram Stadium,Delhi Capitals,field,Player49
+2012,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,6,0,Wankhede Stadium,Royal Challengers Bangalore,bat,Player39
+2012,Rajasthan Royals,Mumbai Indians,Mumbai Indians,0,8,MA Chidambaram Stadium,Mumbai Indians,field,Player20
+2012,Delhi Capitals,Punjab Kings,Delhi Capitals,7,0,Eden Gardens,Punjab Kings,field,Player4
+2012,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,0,3,Wankhede Stadium,Chennai Super Kings,field,Player14
+2012,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0,7,Chinnaswamy Stadium,Royal Challengers Bangalore,bat,Player45
+2012,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,45,0,Feroz Shah Kotla,Royal Challengers Bangalore,bat,Player32
+2012,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,0,2,Eden Gardens,Sunrisers Hyderabad,bat,Player32
+2012,Punjab Kings,Mumbai Indians,Punjab Kings,28,0,MA Chidambaram Stadium,Punjab Kings,bat,Player29
+2012,Delhi Capitals,Punjab Kings,Delhi Capitals,7,0,Chinnaswamy Stadium,Delhi Capitals,field,Player21
+2012,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,0,4,Feroz Shah Kotla,Chennai Super Kings,field,Player44
+2012,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,0,2,Wankhede Stadium,Delhi Capitals,field,Player41
+2012,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,0,4,MA Chidambaram Stadium,Kolkata Knight Riders,field,Player36
+2012,Delhi Capitals,Punjab Kings,Punjab Kings,58,0,Rajiv Gandhi Stadium,Delhi Capitals,field,Player3
+2012,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,15,0,Wankhede Stadium,Sunrisers Hyderabad,field,Player8
+2012,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,0,2,Feroz Shah Kotla,Kolkata Knight Riders,field,Player45
+2012,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,0,8,Wankhede Stadium,Rajasthan Royals,field,Player39
+2012,Delhi Capitals,Mumbai Indians,Delhi Capitals,28,0,MA Chidambaram Stadium,Delhi Capitals,bat,Player5
+2012,Rajasthan Royals,Mumbai Indians,Mumbai Indians,0,8,Chinnaswamy Stadium,Rajasthan Royals,bat,Player47
+2012,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,14,0,MA Chidambaram Stadium,Rajasthan Royals,field,Player12
+2012,Delhi Capitals,Mumbai Indians,Delhi Capitals,20,0,Eden Gardens,Mumbai Indians,bat,Player20
+2012,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,47,0,Feroz Shah Kotla,Mumbai Indians,bat,Player49
+2012,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,0,6,Chinnaswamy Stadium,Mumbai Indians,bat,Player20
+2012,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,37,0,Chinnaswamy Stadium,Rajasthan Royals,bat,Player1
+2012,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,59,0,Feroz Shah Kotla,Rajasthan Royals,bat,Player14
+2012,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,88,0,Eden Gardens,Kolkata Knight Riders,field,Player34
+2012,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,39,0,Eden Gardens,Royal Challengers Bangalore,bat,Player44
+2012,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,0,4,MA Chidambaram Stadium,Kolkata Knight Riders,field,Player8
+2012,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,8,0,Feroz Shah Kotla,Delhi Capitals,field,Player5
+2012,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,0,1,MA Chidambaram Stadium,Rajasthan Royals,field,Player30
+2012,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,0,8,Wankhede Stadium,Royal Challengers Bangalore,bat,Player8
+2012,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,1,0,Eden Gardens,Mumbai Indians,field,Player14
+2012,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,0,2,MA Chidambaram Stadium,Delhi Capitals,field,Player9
+2012,Mumbai Indians,Chennai Super Kings,Mumbai Indians,0,9,Feroz Shah Kotla,Mumbai Indians,bat,Player41
+2012,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,4,0,Rajiv Gandhi Stadium,Royal Challengers Bangalore,field,Player34
+2012,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,83,0,Feroz Shah Kotla,Chennai Super Kings,bat,Player24
+2012,Delhi Capitals,Rajasthan Royals,Delhi Capitals,85,0,Wankhede Stadium,Rajasthan Royals,field,Player7
+2012,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,0,9,Wankhede Stadium,Rajasthan Royals,field,Player49
+2012,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,0,3,Rajiv Gandhi Stadium,Sunrisers Hyderabad,field,Player2
+2012,Delhi Capitals,Mumbai Indians,Delhi Capitals,26,0,MA Chidambaram Stadium,Mumbai Indians,field,Player29
+2012,Chennai Super Kings,Mumbai Indians,Mumbai Indians,98,0,Feroz Shah Kotla,Chennai Super Kings,field,Player36
+2012,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,70,0,Rajiv Gandhi Stadium,Royal Challengers Bangalore,field,Player43
+2012,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,80,0,Feroz Shah Kotla,Delhi Capitals,bat,Player25
+2012,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,68,0,Feroz Shah Kotla,Kolkata Knight Riders,field,Player19
+2012,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,0,5,Chinnaswamy Stadium,Rajasthan Royals,bat,Player29
+2012,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,0,4,Rajiv Gandhi Stadium,Kolkata Knight Riders,field,Player49
+2012,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,94,0,Eden Gardens,Sunrisers Hyderabad,bat,Player44
+2012,Chennai Super Kings,Punjab Kings,Chennai Super Kings,71,0,Wankhede Stadium,Punjab Kings,bat,Player42
+2012,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,0,6,Rajiv Gandhi Stadium,Punjab Kings,field,Player45
+2012,Chennai Super Kings,Punjab Kings,Chennai Super Kings,22,0,Rajiv Gandhi Stadium,Chennai Super Kings,field,Player28
+2013,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,10,0,MA Chidambaram Stadium,Mumbai Indians,bat,Player42
+2013,Punjab Kings,Mumbai Indians,Mumbai Indians,37,0,Chinnaswamy Stadium,Mumbai Indians,field,Player19
+2013,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,0,9,MA Chidambaram Stadium,Kolkata Knight Riders,field,Player10
+2013,Mumbai Indians,Punjab Kings,Punjab Kings,47,0,Wankhede Stadium,Mumbai Indians,field,Player34
+2013,Mumbai Indians,Punjab Kings,Mumbai Indians,22,0,Feroz Shah Kotla,Mumbai Indians,bat,Player28
+2013,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,78,0,Feroz Shah Kotla,Rajasthan Royals,bat,Player25
+2013,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,18,0,Eden Gardens,Kolkata Knight Riders,field,Player39
+2013,Mumbai Indians,Chennai Super Kings,Mumbai Indians,24,0,Chinnaswamy Stadium,Chennai Super Kings,bat,Player4
+2013,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,0,7,Feroz Shah Kotla,Rajasthan Royals,field,Player40
+2013,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,73,0,Wankhede Stadium,Sunrisers Hyderabad,field,Player41
+2013,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,60,0,MA Chidambaram Stadium,Kolkata Knight Riders,bat,Player44
+2013,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,0,8,MA Chidambaram Stadium,Royal Challengers Bangalore,field,Player44
+2013,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,0,6,MA Chidambaram Stadium,Sunrisers Hyderabad,field,Player2
+2013,Delhi Capitals,Mumbai Indians,Delhi Capitals,0,7,Rajiv Gandhi Stadium,Mumbai Indians,field,Player22
+2013,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,77,0,Feroz Shah Kotla,Kolkata Knight Riders,bat,Player16
+2013,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,55,0,Chinnaswamy Stadium,Chennai Super Kings,field,Player12
+2013,Punjab Kings,Kolkata Knight Riders,Punjab Kings,0,7,Chinnaswamy Stadium,Punjab Kings,field,Player5
+2013,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,30,0,Feroz Shah Kotla,Sunrisers Hyderabad,field,Player22
+2013,Chennai Super Kings,Punjab Kings,Punjab Kings,16,0,Chinnaswamy Stadium,Punjab Kings,field,Player34
+2013,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,23,0,MA Chidambaram Stadium,Sunrisers Hyderabad,field,Player41
+2013,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,73,0,Wankhede Stadium,Sunrisers Hyderabad,bat,Player23
+2013,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,6,0,Eden Gardens,Sunrisers Hyderabad,bat,Player15
+2013,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,0,1,MA Chidambaram Stadium,Kolkata Knight Riders,field,Player45
+2013,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,0,6,Eden Gardens,Rajasthan Royals,bat,Player14
+2013,Mumbai Indians,Punjab Kings,Mumbai Indians,66,0,Eden Gardens,Punjab Kings,bat,Player18
+2013,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,0,9,MA Chidambaram Stadium,Delhi Capitals,bat,Player33
+2013,Kolkata Knight Riders,Punjab Kings,Punjab Kings,80,0,Rajiv Gandhi Stadium,Punjab Kings,bat,Player3
+2013,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,13,0,Feroz Shah Kotla,Mumbai Indians,field,Player21
+2013,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,68,0,Feroz Shah Kotla,Sunrisers Hyderabad,field,Player32
+2013,Punjab Kings,Kolkata Knight Riders,Punjab Kings,78,0,Chinnaswamy Stadium,Kolkata Knight Riders,bat,Player6
+2013,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,0,2,Chinnaswamy Stadium,Punjab Kings,bat,Player31
+2013,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,0,9,MA Chidambaram Stadium,Delhi Capitals,bat,Player31
+2013,Punjab Kings,Rajasthan Royals,Punjab Kings,83,0,Wankhede Stadium,Punjab Kings,bat,Player9
+2013,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,7,0,Chinnaswamy Stadium,Kolkata Knight Riders,field,Player4
+2013,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,52,0,Feroz Shah Kotla,Mumbai Indians,field,Player38
+2013,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,63,0,Rajiv Gandhi Stadium,Chennai Super Kings,bat,Player35
+2013,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,0,7,Feroz Shah Kotla,Rajasthan Royals,field,Player5
+2013,Delhi Capitals,Punjab Kings,Punjab Kings,0,5,Rajiv Gandhi Stadium,Punjab Kings,bat,Player21
+2013,Chennai Super Kings,Punjab Kings,Punjab Kings,0,7,Feroz Shah Kotla,Chennai Super Kings,bat,Player21
+2013,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,53,0,MA Chidambaram Stadium,Chennai Super Kings,bat,Player32
+2013,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,60,0,Eden Gardens,Kolkata Knight Riders,bat,Player26
+2013,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,0,2,Eden Gardens,Delhi Capitals,bat,Player29
+2013,Delhi Capitals,Chennai Super Kings,Delhi Capitals,0,1,Wankhede Stadium,Chennai Super Kings,bat,Player9
+2013,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,0,1,MA Chidambaram Stadium,Chennai Super Kings,field,Player40
+2013,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,34,0,Eden Gardens,Kolkata Knight Riders,field,Player49
+2013,Rajasthan Royals,Mumbai Indians,Mumbai Indians,88,0,Feroz Shah Kotla,Rajasthan Royals,bat,Player32
+2013,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,8,0,Feroz Shah Kotla,Mumbai Indians,bat,Player23
+2013,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,24,0,Eden Gardens,Mumbai Indians,bat,Player5
+2013,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,0,4,Eden Gardens,Delhi Capitals,bat,Player19
+2013,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,58,0,Feroz Shah Kotla,Rajasthan Royals,field,Player32
+2013,Punjab Kings,Chennai Super Kings,Chennai Super Kings,96,0,Chinnaswamy Stadium,Punjab Kings,bat,Player8
+2013,Punjab Kings,Mumbai Indians,Punjab Kings,0,2,Eden Gardens,Punjab Kings,field,Player4
+2013,Delhi Capitals,Mumbai Indians,Delhi Capitals,62,0,MA Chidambaram Stadium,Mumbai Indians,bat,Player36
+2013,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0,6,Feroz Shah Kotla,Kolkata Knight Riders,field,Player31
+2013,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,10,0,Wankhede Stadium,Kolkata Knight Riders,field,Player9
+2013,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,0,9,MA Chidambaram Stadium,Kolkata Knight Riders,field,Player30
+2013,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,0,3,Rajiv Gandhi Stadium,Kolkata Knight Riders,field,Player21
+2013,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0,7,Wankhede Stadium,Chennai Super Kings,bat,Player47
+2013,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,0,5,Rajiv Gandhi Stadium,Delhi Capitals,field,Player40
+2013,Delhi Capitals,Punjab Kings,Delhi Capitals,0,6,Rajiv Gandhi Stadium,Delhi Capitals,bat,Player22
+2014,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,0,2,Feroz Shah Kotla,Kolkata Knight Riders,bat,Player27
+2014,Chennai Super Kings,Punjab Kings,Chennai Super Kings,23,0,Chinnaswamy Stadium,Chennai Super Kings,field,Player43
+2014,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,0,3,Rajiv Gandhi Stadium,Sunrisers Hyderabad,bat,Player29
+2014,Delhi Capitals,Punjab Kings,Punjab Kings,25,0,Feroz Shah Kotla,Delhi Capitals,field,Player42
+2014,Chennai Super Kings,Mumbai Indians,Mumbai Indians,3,0,Wankhede Stadium,Mumbai Indians,field,Player35
+2014,Punjab Kings,Chennai Super Kings,Chennai Super Kings,89,0,MA Chidambaram Stadium,Punjab Kings,field,Player46
+2014,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,0,9,Feroz Shah Kotla,Rajasthan Royals,field,Player36
+2014,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,0,6,Chinnaswamy Stadium,Delhi Capitals,field,Player14
+2014,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,20,0,Eden Gardens,Royal Challengers Bangalore,bat,Player31
+2014,Rajasthan Royals,Delhi Capitals,Delhi Capitals,58,0,Chinnaswamy Stadium,Rajasthan Royals,bat,Player4
+2014,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,0,3,MA Chidambaram Stadium,Kolkata Knight Riders,field,Player21
+2014,Delhi Capitals,Punjab Kings,Delhi Capitals,0,6,Rajiv Gandhi Stadium,Punjab Kings,field,Player45
+2014,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,4,0,Feroz Shah Kotla,Mumbai Indians,bat,Player24
+2014,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,0,4,Rajiv Gandhi Stadium,Chennai Super Kings,field,Player30
+2014,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,0,3,Wankhede Stadium,Chennai Super Kings,field,Player19
+2014,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,0,6,Feroz Shah Kotla,Delhi Capitals,field,Player19
+2014,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,0,7,Wankhede Stadium,Punjab Kings,bat,Player18
+2014,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,92,0,Eden Gardens,Rajasthan Royals,bat,Player45
+2014,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,0,4,Eden Gardens,Mumbai Indians,field,Player47
+2014,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,9,0,MA Chidambaram Stadium,Kolkata Knight Riders,bat,Player10
+2014,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,94,0,Rajiv Gandhi Stadium,Kolkata Knight Riders,bat,Player6
+2014,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,19,0,MA Chidambaram Stadium,Mumbai Indians,field,Player26
+2014,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,0,5,Chinnaswamy Stadium,Royal Challengers Bangalore,bat,Player10
+2014,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,0,4,Rajiv Gandhi Stadium,Punjab Kings,bat,Player35
+2014,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,0,9,Rajiv Gandhi Stadium,Chennai Super Kings,field,Player44
+2014,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,0,8,Wankhede Stadium,Mumbai Indians,bat,Player30
+2014,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,0,6,Chinnaswamy Stadium,Punjab Kings,bat,Player28
+2014,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,0,6,MA Chidambaram Stadium,Delhi Capitals,bat,Player6
+2014,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,0,8,Eden Gardens,Mumbai Indians,field,Player43
+2014,Mumbai Indians,Delhi Capitals,Delhi Capitals,0,1,Eden Gardens,Mumbai Indians,field,Player15
+2014,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,0,7,Feroz Shah Kotla,Kolkata Knight Riders,field,Player44
+2014,Punjab Kings,Delhi Capitals,Punjab Kings,58,0,Feroz Shah Kotla,Delhi Capitals,bat,Player3
+2014,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,0,1,Eden Gardens,Rajasthan Royals,bat,Player21
+2014,Punjab Kings,Kolkata Knight Riders,Punjab Kings,41,0,Wankhede Stadium,Kolkata Knight Riders,bat,Player4
+2014,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,86,0,Wankhede Stadium,Rajasthan Royals,field,Player34
+2014,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,39,0,Rajiv Gandhi Stadium,Kolkata Knight Riders,bat,Player34
+2014,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,0,1,MA Chidambaram Stadium,Delhi Capitals,bat,Player2
+2014,Delhi Capitals,Mumbai Indians,Mumbai Indians,0,2,Eden Gardens,Delhi Capitals,bat,Player22
+2014,Kolkata Knight Riders,Punjab Kings,Punjab Kings,0,3,Eden Gardens,Kolkata Knight Riders,bat,Player32
+2014,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,0,4,Rajiv Gandhi Stadium,Sunrisers Hyderabad,field,Player15
+2014,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,0,4,Chinnaswamy Stadium,Sunrisers Hyderabad,bat,Player41
+2014,Punjab Kings,Chennai Super Kings,Chennai Super Kings,0,1,MA Chidambaram Stadium,Punjab Kings,field,Player3
+2014,Punjab Kings,Kolkata Knight Riders,Punjab Kings,0,4,Eden Gardens,Kolkata Knight Riders,bat,Player23
+2014,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,19,0,Feroz Shah Kotla,Mumbai Indians,bat,Player12
+2014,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,36,0,Feroz Shah Kotla,Chennai Super Kings,field,Player9
+2014,Rajasthan Royals,Punjab Kings,Punjab Kings,0,8,MA Chidambaram Stadium,Punjab Kings,field,Player20
+2014,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,80,0,Eden Gardens,Delhi Capitals,bat,Player27
+2014,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,0,1,Chinnaswamy Stadium,Chennai Super Kings,bat,Player8
+2014,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,4,0,Rajiv Gandhi Stadium,Kolkata Knight Riders,field,Player19
+2014,Punjab Kings,Mumbai Indians,Mumbai Indians,46,0,Wankhede Stadium,Punjab Kings,bat,Player21
+2014,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,0,6,MA Chidambaram Stadium,Delhi Capitals,bat,Player27
+2014,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,68,0,Wankhede Stadium,Mumbai Indians,field,Player26
+2014,Delhi Capitals,Rajasthan Royals,Delhi Capitals,61,0,Chinnaswamy Stadium,Delhi Capitals,bat,Player38
+2014,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,0,9,Eden Gardens,Rajasthan Royals,bat,Player44
+2014,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,0,2,Rajiv Gandhi Stadium,Kolkata Knight Riders,field,Player28
+2014,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,28,0,MA Chidambaram Stadium,Chennai Super Kings,bat,Player21
+2014,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,51,0,MA Chidambaram Stadium,Sunrisers Hyderabad,bat,Player23
+2014,Punjab Kings,Delhi Capitals,Punjab Kings,11,0,Rajiv Gandhi Stadium,Punjab Kings,bat,Player35
+2014,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,0,2,MA Chidambaram Stadium,Mumbai Indians,field,Player28
+2014,Rajasthan Royals,Punjab Kings,Punjab Kings,20,0,Chinnaswamy Stadium,Rajasthan Royals,field,Player23
+2015,Punjab Kings,Rajasthan Royals,Punjab Kings,0,9,Rajiv Gandhi Stadium,Punjab Kings,bat,Player21
+2015,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,46,0,Chinnaswamy Stadium,Mumbai Indians,field,Player12
+2015,Mumbai Indians,Punjab Kings,Mumbai Indians,77,0,MA Chidambaram Stadium,Mumbai Indians,bat,Player6
+2015,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,91,0,MA Chidambaram Stadium,Kolkata Knight Riders,field,Player38
+2015,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,0,3,Eden Gardens,Kolkata Knight Riders,bat,Player14
+2015,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,40,0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,field,Player23
+2015,Delhi Capitals,Mumbai Indians,Delhi Capitals,0,3,Eden Gardens,Mumbai Indians,bat,Player9
+2015,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,78,0,Wankhede Stadium,Kolkata Knight Riders,field,Player19
+2015,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,0,6,Feroz Shah Kotla,Rajasthan Royals,field,Player40
+2015,Mumbai Indians,Rajasthan Royals,Mumbai Indians,0,1,Chinnaswamy Stadium,Mumbai Indians,field,Player11
+2015,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,78,0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,field,Player4
+2015,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,86,0,Wankhede Stadium,Chennai Super Kings,bat,Player16
+2015,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,0,3,Eden Gardens,Rajasthan Royals,field,Player21
+2015,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,0,4,Feroz Shah Kotla,Rajasthan Royals,field,Player33
+2015,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,9,0,Chinnaswamy Stadium,Sunrisers Hyderabad,bat,Player34
+2015,Punjab Kings,Mumbai Indians,Mumbai Indians,87,0,Chinnaswamy Stadium,Mumbai Indians,field,Player46
+2015,Rajasthan Royals,Punjab Kings,Rajasthan Royals,26,0,Chinnaswamy Stadium,Rajasthan Royals,field,Player40
+2015,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,0,9,Feroz Shah Kotla,Sunrisers Hyderabad,field,Player7
+2015,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,0,3,Rajiv Gandhi Stadium,Sunrisers Hyderabad,field,Player24
+2015,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,1,0,Rajiv Gandhi Stadium,Kolkata Knight Riders,field,Player25
+2015,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,0,6,MA Chidambaram Stadium,Chennai Super Kings,field,Player19
+2015,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,93,0,Feroz Shah Kotla,Kolkata Knight Riders,bat,Player40
+2015,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,84,0,Wankhede Stadium,Delhi Capitals,bat,Player38
+2015,Mumbai Indians,Rajasthan Royals,Mumbai Indians,0,8,Eden Gardens,Rajasthan Royals,field,Player33
+2015,Chennai Super Kings,Punjab Kings,Chennai Super Kings,49,0,Rajiv Gandhi Stadium,Punjab Kings,bat,Player41
+2015,Mumbai Indians,Delhi Capitals,Mumbai Indians,17,0,Feroz Shah Kotla,Mumbai Indians,bat,Player39
+2015,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,64,0,Eden Gardens,Mumbai Indians,bat,Player11
+2015,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,1,0,Chinnaswamy Stadium,Sunrisers Hyderabad,field,Player8
+2015,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,12,0,Feroz Shah Kotla,Sunrisers Hyderabad,bat,Player45
+2015,Chennai Super Kings,Punjab Kings,Punjab Kings,0,5,Wankhede Stadium,Chennai Super Kings,field,Player23
+2015,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,49,0,Chinnaswamy Stadium,Sunrisers Hyderabad,field,Player2
+2015,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,36,0,MA Chidambaram Stadium,Kolkata Knight Riders,bat,Player47
+2015,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,76,0,MA Chidambaram Stadium,Kolkata Knight Riders,bat,Player41
+2015,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,74,0,MA Chidambaram Stadium,Rajasthan Royals,bat,Player13
+2015,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,73,0,Wankhede Stadium,Chennai Super Kings,field,Player3
+2015,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,2,0,Feroz Shah Kotla,Rajasthan Royals,bat,Player16
+2015,Delhi Capitals,Chennai Super Kings,Delhi Capitals,12,0,Eden Gardens,Delhi Capitals,bat,Player45
+2015,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,62,0,Wankhede Stadium,Rajasthan Royals,bat,Player25
+2015,Rajasthan Royals,Mumbai Indians,Mumbai Indians,0,5,Rajiv Gandhi Stadium,Rajasthan Royals,field,Player36
+2015,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,53,0,Rajiv Gandhi Stadium,Delhi Capitals,field,Player44
+2015,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,0,9,Eden Gardens,Kolkata Knight Riders,field,Player36
+2015,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,34,0,Chinnaswamy Stadium,Kolkata Knight Riders,bat,Player4
+2015,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,20,0,Eden Gardens,Sunrisers Hyderabad,field,Player18
+2015,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,95,0,Eden Gardens,Royal Challengers Bangalore,bat,Player49
+2015,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,8,0,MA Chidambaram Stadium,Rajasthan Royals,field,Player12
+2015,Delhi Capitals,Mumbai Indians,Delhi Capitals,0,1,Feroz Shah Kotla,Mumbai Indians,bat,Player30
+2015,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,45,0,Chinnaswamy Stadium,Royal Challengers Bangalore,bat,Player46
+2015,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,51,0,MA Chidambaram Stadium,Royal Challengers Bangalore,bat,Player15
+2015,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,37,0,MA Chidambaram Stadium,Rajasthan Royals,bat,Player35
+2015,Rajasthan Royals,Delhi Capitals,Delhi Capitals,0,9,Wankhede Stadium,Rajasthan Royals,bat,Player47
+2015,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,96,0,Rajiv Gandhi Stadium,Kolkata Knight Riders,bat,Player37
+2015,Mumbai Indians,Chennai Super Kings,Mumbai Indians,0,6,Feroz Shah Kotla,Mumbai Indians,bat,Player3
+2015,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,51,0,MA Chidambaram Stadium,Chennai Super Kings,bat,Player46
+2015,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,0,7,Chinnaswamy Stadium,Rajasthan Royals,bat,Player28
+2015,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,98,0,Eden Gardens,Sunrisers Hyderabad,bat,Player17
+2015,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,0,6,Wankhede Stadium,Sunrisers Hyderabad,field,Player19
+2015,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,0,5,Wankhede Stadium,Sunrisers Hyderabad,field,Player19
+2015,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,0,6,Feroz Shah Kotla,Rajasthan Royals,field,Player21
+2015,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,0,5,Wankhede Stadium,Royal Challengers Bangalore,field,Player41
+2015,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,0,1,Eden Gardens,Delhi Capitals,field,Player48
+2016,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,0,6,MA Chidambaram Stadium,Sunrisers Hyderabad,field,Player11
+2016,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,15,0,Eden Gardens,Mumbai Indians,field,Player17
+2016,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,82,0,Chinnaswamy Stadium,Royal Challengers Bangalore,bat,Player47
+2016,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,48,0,Wankhede Stadium,Punjab Kings,field,Player45
+2016,Mumbai Indians,Chennai Super Kings,Mumbai Indians,96,0,Eden Gardens,Mumbai Indians,field,Player3
+2016,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,61,0,MA Chidambaram Stadium,Delhi Capitals,field,Player29
+2016,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,0,5,Chinnaswamy Stadium,Royal Challengers Bangalore,bat,Player24
+2016,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,0,3,Eden Gardens,Rajasthan Royals,field,Player26
+2016,Mumbai Indians,Punjab Kings,Punjab Kings,67,0,Wankhede Stadium,Punjab Kings,bat,Player37
+2016,Mumbai Indians,Punjab Kings,Mumbai Indians,8,0,Feroz Shah Kotla,Punjab Kings,field,Player9
+2016,Rajasthan Royals,Mumbai Indians,Mumbai Indians,66,0,Wankhede Stadium,Mumbai Indians,field,Player14
+2016,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,75,0,Eden Gardens,Kolkata Knight Riders,bat,Player14
+2016,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,0,2,Feroz Shah Kotla,Kolkata Knight Riders,bat,Player38
+2016,Punjab Kings,Chennai Super Kings,Chennai Super Kings,34,0,MA Chidambaram Stadium,Chennai Super Kings,field,Player38
+2016,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,0,8,Chinnaswamy Stadium,Chennai Super Kings,bat,Player3
+2016,Punjab Kings,Rajasthan Royals,Rajasthan Royals,0,7,Eden Gardens,Rajasthan Royals,bat,Player39
+2016,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,30,0,Feroz Shah Kotla,Sunrisers Hyderabad,bat,Player19
+2016,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,86,0,Wankhede Stadium,Sunrisers Hyderabad,bat,Player32
+2016,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,0,8,Rajiv Gandhi Stadium,Chennai Super Kings,field,Player32
+2016,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,0,4,Feroz Shah Kotla,Rajasthan Royals,bat,Player22
+2016,Delhi Capitals,Punjab Kings,Punjab Kings,59,0,MA Chidambaram Stadium,Punjab Kings,bat,Player31
+2016,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,0,2,Eden Gardens,Delhi Capitals,field,Player49
+2016,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,93,0,MA Chidambaram Stadium,Mumbai Indians,field,Player22
+2016,Delhi Capitals,Mumbai Indians,Delhi Capitals,0,2,Wankhede Stadium,Mumbai Indians,bat,Player44
+2016,Mumbai Indians,Delhi Capitals,Delhi Capitals,65,0,Eden Gardens,Mumbai Indians,bat,Player27
+2016,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,0,2,Eden Gardens,Chennai Super Kings,bat,Player49
+2016,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,17,0,MA Chidambaram Stadium,Delhi Capitals,field,Player29
+2016,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,55,0,MA Chidambaram Stadium,Mumbai Indians,bat,Player21
+2016,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,33,0,Chinnaswamy Stadium,Sunrisers Hyderabad,bat,Player4
+2016,Rajasthan Royals,Mumbai Indians,Mumbai Indians,21,0,Chinnaswamy Stadium,Rajasthan Royals,bat,Player12
+2016,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,48,0,Chinnaswamy Stadium,Chennai Super Kings,bat,Player35
+2016,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,0,3,Chinnaswamy Stadium,Rajasthan Royals,field,Player7
+2016,Mumbai Indians,Delhi Capitals,Delhi Capitals,13,0,Chinnaswamy Stadium,Mumbai Indians,field,Player16
+2016,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,54,0,Rajiv Gandhi Stadium,Mumbai Indians,field,Player45
+2016,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,0,9,Chinnaswamy Stadium,Sunrisers Hyderabad,bat,Player28
+2016,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,28,0,Rajiv Gandhi Stadium,Kolkata Knight Riders,bat,Player36
+2016,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,13,0,Wankhede Stadium,Sunrisers Hyderabad,field,Player10
+2016,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,74,0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,bat,Player38
+2016,Punjab Kings,Chennai Super Kings,Chennai Super Kings,14,0,MA Chidambaram Stadium,Punjab Kings,bat,Player3
+2016,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,0,6,Chinnaswamy Stadium,Delhi Capitals,bat,Player43
+2016,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,0,6,Wankhede Stadium,Sunrisers Hyderabad,bat,Player28
+2016,Punjab Kings,Rajasthan Royals,Punjab Kings,0,6,Feroz Shah Kotla,Rajasthan Royals,bat,Player47
+2016,Delhi Capitals,Mumbai Indians,Mumbai Indians,6,0,Feroz Shah Kotla,Delhi Capitals,bat,Player7
+2016,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0,5,Chinnaswamy Stadium,Kolkata Knight Riders,bat,Player36
+2016,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,0,8,Wankhede Stadium,Rajasthan Royals,bat,Player8
+2016,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,0,8,Eden Gardens,Sunrisers Hyderabad,bat,Player29
+2016,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,79,0,Chinnaswamy Stadium,Chennai Super Kings,field,Player26
+2016,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,5,0,Chinnaswamy Stadium,Chennai Super Kings,bat,Player15
+2016,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,17,0,Eden Gardens,Kolkata Knight Riders,field,Player7
+2016,Chennai Super Kings,Mumbai Indians,Mumbai Indians,10,0,Eden Gardens,Chennai Super Kings,bat,Player11
+2016,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,0,4,Chinnaswamy Stadium,Sunrisers Hyderabad,bat,Player1
+2016,Mumbai Indians,Punjab Kings,Punjab Kings,0,8,Rajiv Gandhi Stadium,Punjab Kings,bat,Player47
+2016,Rajasthan Royals,Mumbai Indians,Mumbai Indians,0,1,MA Chidambaram Stadium,Rajasthan Royals,field,Player41
+2016,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,0,6,Eden Gardens,Rajasthan Royals,bat,Player32
+2016,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,0,5,Rajiv Gandhi Stadium,Chennai Super Kings,field,Player22
+2016,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,0,3,Rajiv Gandhi Stadium,Chennai Super Kings,bat,Player8
+2016,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,0,1,Wankhede Stadium,Delhi Capitals,bat,Player13
+2016,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,0,6,Wankhede Stadium,Kolkata Knight Riders,field,Player35
+2016,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0,9,Chinnaswamy Stadium,Kolkata Knight Riders,bat,Player25
+2016,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,82,0,MA Chidambaram Stadium,Kolkata Knight Riders,field,Player44
+2017,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,98,0,Wankhede Stadium,Royal Challengers Bangalore,bat,Player16
+2017,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,0,8,Rajiv Gandhi Stadium,Royal Challengers Bangalore,field,Player47
+2017,Delhi Capitals,Mumbai Indians,Delhi Capitals,81,0,Eden Gardens,Mumbai Indians,field,Player22
+2017,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,37,0,MA Chidambaram Stadium,Rajasthan Royals,bat,Player28
+2017,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,43,0,Feroz Shah Kotla,Kolkata Knight Riders,field,Player40
+2017,Chennai Super Kings,Punjab Kings,Punjab Kings,0,6,Feroz Shah Kotla,Chennai Super Kings,bat,Player29
+2017,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,10,0,Chinnaswamy Stadium,Royal Challengers Bangalore,field,Player27
+2017,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,0,9,Feroz Shah Kotla,Chennai Super Kings,bat,Player3
+2017,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,0,3,Eden Gardens,Kolkata Knight Riders,bat,Player27
+2017,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,0,4,Feroz Shah Kotla,Rajasthan Royals,bat,Player27
+2017,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,0,1,MA Chidambaram Stadium,Sunrisers Hyderabad,bat,Player20
+2017,Kolkata Knight Riders,Punjab Kings,Punjab Kings,75,0,Wankhede Stadium,Kolkata Knight Riders,bat,Player1
+2017,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,0,9,Feroz Shah Kotla,Rajasthan Royals,bat,Player11
+2017,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,76,0,MA Chidambaram Stadium,Punjab Kings,bat,Player45
+2017,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,71,0,MA Chidambaram Stadium,Punjab Kings,bat,Player21
+2017,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,0,4,MA Chidambaram Stadium,Kolkata Knight Riders,bat,Player29
+2017,Punjab Kings,Mumbai Indians,Mumbai Indians,46,0,Chinnaswamy Stadium,Mumbai Indians,bat,Player27
+2017,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,37,0,Wankhede Stadium,Kolkata Knight Riders,bat,Player24
+2017,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,0,2,Feroz Shah Kotla,Punjab Kings,field,Player42
+2017,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,49,0,Feroz Shah Kotla,Royal Challengers Bangalore,field,Player23
+2017,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,0,5,Rajiv Gandhi Stadium,Sunrisers Hyderabad,bat,Player6
+2017,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,0,7,Rajiv Gandhi Stadium,Sunrisers Hyderabad,bat,Player20
+2017,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,68,0,Chinnaswamy Stadium,Kolkata Knight Riders,field,Player36
+2017,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,87,0,MA Chidambaram Stadium,Mumbai Indians,field,Player37
+2017,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,0,9,Rajiv Gandhi Stadium,Kolkata Knight Riders,bat,Player47
+2017,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,0,8,Rajiv Gandhi Stadium,Delhi Capitals,field,Player21
+2017,Punjab Kings,Mumbai Indians,Mumbai Indians,31,0,MA Chidambaram Stadium,Mumbai Indians,field,Player34
+2017,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,11,0,MA Chidambaram Stadium,Delhi Capitals,bat,Player17
+2017,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,21,0,Feroz Shah Kotla,Sunrisers Hyderabad,bat,Player1
+2017,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,0,1,Wankhede Stadium,Rajasthan Royals,field,Player2
+2017,Punjab Kings,Rajasthan Royals,Rajasthan Royals,70,0,Wankhede Stadium,Punjab Kings,bat,Player39
+2017,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,34,0,Eden Gardens,Sunrisers Hyderabad,bat,Player9
+2017,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,0,4,Feroz Shah Kotla,Sunrisers Hyderabad,bat,Player49
+2017,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,64,0,Wankhede Stadium,Kolkata Knight Riders,bat,Player26
+2017,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,0,4,MA Chidambaram Stadium,Rajasthan Royals,bat,Player43
+2017,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,Rajiv Gandhi Stadium,Royal Challengers Bangalore,bat,Player4
+2017,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,6,0,Wankhede Stadium,Punjab Kings,bat,Player40
+2017,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,27,0,Rajiv Gandhi Stadium,Delhi Capitals,bat,Player48
+2017,Punjab Kings,Delhi Capitals,Punjab Kings,76,0,Eden Gardens,Punjab Kings,field,Player25
+2017,Kolkata Knight Riders,Punjab Kings,Punjab Kings,0,7,MA Chidambaram Stadium,Punjab Kings,field,Player37
+2017,Punjab Kings,Rajasthan Royals,Rajasthan Royals,0,7,Eden Gardens,Rajasthan Royals,field,Player19
+2017,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0,8,Chinnaswamy Stadium,Royal Challengers Bangalore,bat,Player12
+2017,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,27,0,Chinnaswamy Stadium,Delhi Capitals,field,Player33
+2017,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,0,5,Rajiv Gandhi Stadium,Mumbai Indians,bat,Player33
+2017,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,19,0,Rajiv Gandhi Stadium,Delhi Capitals,bat,Player2
+2017,Delhi Capitals,Punjab Kings,Delhi Capitals,0,1,Feroz Shah Kotla,Punjab Kings,field,Player7
+2017,Rajasthan Royals,Punjab Kings,Punjab Kings,19,0,Rajiv Gandhi Stadium,Rajasthan Royals,field,Player20
+2017,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,0,9,Wankhede Stadium,Chennai Super Kings,field,Player29
+2017,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0,5,Chinnaswamy Stadium,Mumbai Indians,bat,Player5
+2017,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,49,0,Eden Gardens,Chennai Super Kings,field,Player7
+2017,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,0,9,Eden Gardens,Kolkata Knight Riders,field,Player24
+2017,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,0,7,Eden Gardens,Chennai Super Kings,bat,Player38
+2017,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,0,4,Chinnaswamy Stadium,Kolkata Knight Riders,field,Player35
+2017,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,34,0,Rajiv Gandhi Stadium,Rajasthan Royals,field,Player15
+2017,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,96,0,Rajiv Gandhi Stadium,Royal Challengers Bangalore,bat,Player36
+2017,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,68,0,Wankhede Stadium,Royal Challengers Bangalore,field,Player25
+2017,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,22,0,Eden Gardens,Delhi Capitals,bat,Player22
+2017,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,28,0,Wankhede Stadium,Kolkata Knight Riders,bat,Player4
+2017,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,0,3,Wankhede Stadium,Mumbai Indians,field,Player9
+2017,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,0,6,Rajiv Gandhi Stadium,Sunrisers Hyderabad,field,Player27
+2018,Delhi Capitals,Chennai Super Kings,Delhi Capitals,0,5,Wankhede Stadium,Chennai Super Kings,bat,Player15
+2018,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,27,0,MA Chidambaram Stadium,Kolkata Knight Riders,field,Player28
+2018,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,42,0,MA Chidambaram Stadium,Kolkata Knight Riders,bat,Player40
+2018,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,96,0,Chinnaswamy Stadium,Rajasthan Royals,field,Player33
+2018,Mumbai Indians,Rajasthan Royals,Mumbai Indians,48,0,MA Chidambaram Stadium,Rajasthan Royals,bat,Player3
+2018,Delhi Capitals,Chennai Super Kings,Delhi Capitals,16,0,MA Chidambaram Stadium,Chennai Super Kings,field,Player10
+2018,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,36,0,Eden Gardens,Chennai Super Kings,bat,Player46
+2018,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,91,0,Rajiv Gandhi Stadium,Chennai Super Kings,bat,Player46
+2018,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,6,0,Eden Gardens,Chennai Super Kings,bat,Player49
+2018,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,0,5,Wankhede Stadium,Sunrisers Hyderabad,field,Player21
+2018,Chennai Super Kings,Delhi Capitals,Delhi Capitals,60,0,Rajiv Gandhi Stadium,Delhi Capitals,field,Player36
+2018,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,79,0,Chinnaswamy Stadium,Sunrisers Hyderabad,field,Player22
+2018,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,77,0,Chinnaswamy Stadium,Royal Challengers Bangalore,field,Player7
+2018,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,0,4,Chinnaswamy Stadium,Sunrisers Hyderabad,bat,Player3
+2018,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,1,0,Rajiv Gandhi Stadium,Rajasthan Royals,bat,Player48
+2018,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,0,5,MA Chidambaram Stadium,Sunrisers Hyderabad,bat,Player45
+2018,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,68,0,Feroz Shah Kotla,Rajasthan Royals,field,Player12
+2018,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0,7,Wankhede Stadium,Kolkata Knight Riders,bat,Player24
+2018,Mumbai Indians,Delhi Capitals,Mumbai Indians,0,7,Feroz Shah Kotla,Delhi Capitals,field,Player42
+2018,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,80,0,Wankhede Stadium,Mumbai Indians,bat,Player9
+2018,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,39,0,Rajiv Gandhi Stadium,Delhi Capitals,field,Player5
+2018,Chennai Super Kings,Punjab Kings,Chennai Super Kings,0,7,Eden Gardens,Punjab Kings,bat,Player22
+2018,Mumbai Indians,Delhi Capitals,Mumbai Indians,87,0,Feroz Shah Kotla,Delhi Capitals,field,Player47
+2018,Punjab Kings,Rajasthan Royals,Punjab Kings,85,0,MA Chidambaram Stadium,Punjab Kings,field,Player44
+2018,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,0,1,Rajiv Gandhi Stadium,Chennai Super Kings,field,Player43
+2018,Punjab Kings,Chennai Super Kings,Punjab Kings,0,3,Chinnaswamy Stadium,Chennai Super Kings,bat,Player42
+2018,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,47,0,Rajiv Gandhi Stadium,Kolkata Knight Riders,bat,Player15
+2018,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,0,9,Wankhede Stadium,Kolkata Knight Riders,bat,Player19
+2018,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,65,0,Feroz Shah Kotla,Chennai Super Kings,field,Player13
+2018,Delhi Capitals,Mumbai Indians,Mumbai Indians,48,0,Feroz Shah Kotla,Mumbai Indians,bat,Player29
+2018,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,13,0,Feroz Shah Kotla,Chennai Super Kings,bat,Player3
+2018,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,53,0,Wankhede Stadium,Rajasthan Royals,field,Player17
+2018,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,3,0,Feroz Shah Kotla,Royal Challengers Bangalore,bat,Player32
+2018,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,54,0,Chinnaswamy Stadium,Chennai Super Kings,field,Player1
+2018,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,0,9,Eden Gardens,Mumbai Indians,bat,Player41
+2018,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,19,0,MA Chidambaram Stadium,Rajasthan Royals,bat,Player15
+2018,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,0,9,MA Chidambaram Stadium,Royal Challengers Bangalore,field,Player48
+2018,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,0,9,Chinnaswamy Stadium,Chennai Super Kings,field,Player49
+2018,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,45,0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,field,Player29
+2018,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,83,0,Eden Gardens,Chennai Super Kings,field,Player40
+2018,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,0,4,Eden Gardens,Punjab Kings,bat,Player43
+2018,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,2,0,Rajiv Gandhi Stadium,Royal Challengers Bangalore,bat,Player9
+2018,Kolkata Knight Riders,Punjab Kings,Punjab Kings,0,8,Wankhede Stadium,Punjab Kings,field,Player9
+2018,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,0,7,MA Chidambaram Stadium,Royal Challengers Bangalore,bat,Player35
+2018,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,0,7,Chinnaswamy Stadium,Sunrisers Hyderabad,bat,Player28
+2018,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,16,0,Eden Gardens,Delhi Capitals,field,Player26
+2018,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,86,0,Rajiv Gandhi Stadium,Chennai Super Kings,field,Player42
+2018,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,0,8,Eden Gardens,Sunrisers Hyderabad,field,Player45
+2018,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0,1,MA Chidambaram Stadium,Chennai Super Kings,field,Player12
+2018,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,0,1,Rajiv Gandhi Stadium,Chennai Super Kings,bat,Player47
+2018,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,0,1,Rajiv Gandhi Stadium,Royal Challengers Bangalore,field,Player28
+2018,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,27,0,Chinnaswamy Stadium,Sunrisers Hyderabad,field,Player10
+2018,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,4,0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,field,Player37
+2018,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,0,8,Wankhede Stadium,Kolkata Knight Riders,bat,Player22
+2018,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,0,3,Feroz Shah Kotla,Sunrisers Hyderabad,field,Player46
+2018,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,0,8,Feroz Shah Kotla,Chennai Super Kings,field,Player13
+2018,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,0,1,Rajiv Gandhi Stadium,Delhi Capitals,field,Player38
+2018,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,0,3,Feroz Shah Kotla,Punjab Kings,bat,Player31
+2018,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,35,0,Chinnaswamy Stadium,Rajasthan Royals,bat,Player21
+2018,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,0,5,Eden Gardens,Rajasthan Royals,field,Player31
+2019,Delhi Capitals,Chennai Super Kings,Delhi Capitals,0,4,Eden Gardens,Chennai Super Kings,bat,Player3
+2019,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,10,0,Eden Gardens,Punjab Kings,field,Player29
+2019,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,0,9,Chinnaswamy Stadium,Royal Challengers Bangalore,bat,Player23
+2019,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,0,7,Chinnaswamy Stadium,Punjab Kings,bat,Player5
+2019,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,0,4,Rajiv Gandhi Stadium,Royal Challengers Bangalore,field,Player20
+2019,Delhi Capitals,Mumbai Indians,Mumbai Indians,32,0,Eden Gardens,Delhi Capitals,field,Player27
+2019,Rajasthan Royals,Delhi Capitals,Delhi Capitals,0,7,Eden Gardens,Rajasthan Royals,field,Player5
+2019,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,89,0,Wankhede Stadium,Mumbai Indians,field,Player22
+2019,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,4,0,Wankhede Stadium,Royal Challengers Bangalore,field,Player12
+2019,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,81,0,Feroz Shah Kotla,Rajasthan Royals,field,Player20
+2019,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,43,0,Chinnaswamy Stadium,Mumbai Indians,field,Player20
+2019,Delhi Capitals,Rajasthan Royals,Delhi Capitals,0,8,MA Chidambaram Stadium,Rajasthan Royals,bat,Player13
+2019,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,0,2,Chinnaswamy Stadium,Delhi Capitals,field,Player11
+2019,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,22,0,Chinnaswamy Stadium,Kolkata Knight Riders,bat,Player40
+2019,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,0,4,Chinnaswamy Stadium,Chennai Super Kings,field,Player46
+2019,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,0,8,Eden Gardens,Delhi Capitals,bat,Player24
+2019,Punjab Kings,Rajasthan Royals,Punjab Kings,51,0,Chinnaswamy Stadium,Punjab Kings,field,Player17
+2019,Rajasthan Royals,Punjab Kings,Rajasthan Royals,8,0,Feroz Shah Kotla,Punjab Kings,field,Player20
+2019,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,12,0,Wankhede Stadium,Kolkata Knight Riders,field,Player42
+2019,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,0,2,MA Chidambaram Stadium,Delhi Capitals,field,Player34
+2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,0,8,MA Chidambaram Stadium,Sunrisers Hyderabad,field,Player15
+2019,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,40,0,Chinnaswamy Stadium,Kolkata Knight Riders,bat,Player40
+2019,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,0,8,Chinnaswamy Stadium,Rajasthan Royals,bat,Player28
+2019,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,96,0,Chinnaswamy Stadium,Mumbai Indians,field,Player22
+2019,Kolkata Knight Riders,Punjab Kings,Punjab Kings,0,6,Rajiv Gandhi Stadium,Punjab Kings,bat,Player11
+2019,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,0,5,Rajiv Gandhi Stadium,Rajasthan Royals,field,Player46
+2019,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,0,7,Wankhede Stadium,Punjab Kings,bat,Player31
+2019,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,53,0,MA Chidambaram Stadium,Rajasthan Royals,field,Player13
+2019,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,0,8,Wankhede Stadium,Mumbai Indians,field,Player15
+2019,Rajasthan Royals,Punjab Kings,Rajasthan Royals,13,0,Wankhede Stadium,Punjab Kings,bat,Player40
+2019,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,82,0,Feroz Shah Kotla,Chennai Super Kings,bat,Player12
+2019,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,0,7,Wankhede Stadium,Kolkata Knight Riders,field,Player18
+2019,Punjab Kings,Rajasthan Royals,Punjab Kings,0,9,Rajiv Gandhi Stadium,Rajasthan Royals,bat,Player45
+2019,Mumbai Indians,Chennai Super Kings,Mumbai Indians,0,3,Feroz Shah Kotla,Mumbai Indians,field,Player26
+2019,Delhi Capitals,Punjab Kings,Punjab Kings,0,7,Wankhede Stadium,Delhi Capitals,field,Player38
+2019,Rajasthan Royals,Delhi Capitals,Delhi Capitals,0,5,Rajiv Gandhi Stadium,Rajasthan Royals,field,Player3
+2019,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,0,6,Feroz Shah Kotla,Rajasthan Royals,field,Player8
+2019,Delhi Capitals,Mumbai Indians,Mumbai Indians,0,3,MA Chidambaram Stadium,Delhi Capitals,field,Player12
+2019,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,69,0,Rajiv Gandhi Stadium,Kolkata Knight Riders,bat,Player41
+2019,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,0,4,Rajiv Gandhi Stadium,Delhi Capitals,bat,Player45
+2019,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,20,0,Chinnaswamy Stadium,Rajasthan Royals,bat,Player36
+2019,Mumbai Indians,Chennai Super Kings,Mumbai Indians,17,0,MA Chidambaram Stadium,Chennai Super Kings,field,Player27
+2019,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,0,8,Eden Gardens,Punjab Kings,bat,Player13
+2019,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,0,9,Feroz Shah Kotla,Sunrisers Hyderabad,bat,Player2
+2019,Delhi Capitals,Chennai Super Kings,Delhi Capitals,30,0,Feroz Shah Kotla,Chennai Super Kings,field,Player29
+2019,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,43,0,Feroz Shah Kotla,Rajasthan Royals,bat,Player48
+2019,Rajasthan Royals,Mumbai Indians,Mumbai Indians,15,0,Wankhede Stadium,Mumbai Indians,field,Player44
+2019,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,0,4,Rajiv Gandhi Stadium,Rajasthan Royals,bat,Player9
+2019,Delhi Capitals,Punjab Kings,Delhi Capitals,0,3,Eden Gardens,Punjab Kings,field,Player9
+2019,Punjab Kings,Rajasthan Royals,Rajasthan Royals,78,0,Wankhede Stadium,Punjab Kings,field,Player8
+2019,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,42,0,Rajiv Gandhi Stadium,Royal Challengers Bangalore,bat,Player39
+2019,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,32,0,MA Chidambaram Stadium,Royal Challengers Bangalore,bat,Player21
+2019,Punjab Kings,Rajasthan Royals,Rajasthan Royals,0,6,MA Chidambaram Stadium,Rajasthan Royals,bat,Player45
+2019,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,0,9,Wankhede Stadium,Punjab Kings,bat,Player11
+2019,Punjab Kings,Mumbai Indians,Punjab Kings,66,0,Eden Gardens,Punjab Kings,field,Player17
+2019,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,0,2,Rajiv Gandhi Stadium,Delhi Capitals,bat,Player4
+2019,Delhi Capitals,Chennai Super Kings,Delhi Capitals,36,0,MA Chidambaram Stadium,Delhi Capitals,field,Player32
+2019,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,60,0,Rajiv Gandhi Stadium,Mumbai Indians,field,Player35
+2019,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,42,0,MA Chidambaram Stadium,Royal Challengers Bangalore,field,Player33
+2019,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,0,2,Chinnaswamy Stadium,Kolkata Knight Riders,field,Player27
+2020,Mumbai Indians,Punjab Kings,Punjab Kings,0,8,Rajiv Gandhi Stadium,Mumbai Indians,bat,Player34
+2020,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0,6,MA Chidambaram Stadium,Royal Challengers Bangalore,field,Player20
+2020,Punjab Kings,Chennai Super Kings,Punjab Kings,24,0,Feroz Shah Kotla,Punjab Kings,field,Player27
+2020,Punjab Kings,Mumbai Indians,Punjab Kings,76,0,Wankhede Stadium,Punjab Kings,field,Player26
+2020,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,50,0,Chinnaswamy Stadium,Chennai Super Kings,bat,Player4
+2020,Rajasthan Royals,Punjab Kings,Punjab Kings,89,0,MA Chidambaram Stadium,Punjab Kings,bat,Player21
+2020,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,0,6,Feroz Shah Kotla,Sunrisers Hyderabad,bat,Player33
+2020,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,52,0,Rajiv Gandhi Stadium,Kolkata Knight Riders,bat,Player24
+2020,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,0,1,Eden Gardens,Royal Challengers Bangalore,field,Player47
+2020,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,0,5,Chinnaswamy Stadium,Rajasthan Royals,field,Player40
+2020,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,0,9,Chinnaswamy Stadium,Rajasthan Royals,field,Player11
+2020,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,53,0,Feroz Shah Kotla,Delhi Capitals,bat,Player45
+2020,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,59,0,MA Chidambaram Stadium,Delhi Capitals,field,Player30
+2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,0,7,MA Chidambaram Stadium,Royal Challengers Bangalore,bat,Player8
+2020,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,0,9,MA Chidambaram Stadium,Rajasthan Royals,field,Player47
+2020,Chennai Super Kings,Punjab Kings,Chennai Super Kings,0,9,Chinnaswamy Stadium,Chennai Super Kings,bat,Player22
+2020,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,65,0,Wankhede Stadium,Punjab Kings,field,Player42
+2020,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,0,6,Eden Gardens,Sunrisers Hyderabad,field,Player8
+2020,Delhi Capitals,Punjab Kings,Delhi Capitals,90,0,Feroz Shah Kotla,Delhi Capitals,field,Player17
+2020,Punjab Kings,Delhi Capitals,Punjab Kings,0,3,Rajiv Gandhi Stadium,Delhi Capitals,bat,Player8
+2020,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,27,0,Feroz Shah Kotla,Sunrisers Hyderabad,bat,Player35
+2020,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,0,1,Wankhede Stadium,Rajasthan Royals,field,Player47
+2020,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,0,6,Eden Gardens,Chennai Super Kings,field,Player18
+2020,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,0,7,Chinnaswamy Stadium,Kolkata Knight Riders,bat,Player19
+2020,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,0,3,Wankhede Stadium,Rajasthan Royals,bat,Player20
+2020,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0,8,Feroz Shah Kotla,Kolkata Knight Riders,bat,Player7
+2020,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,32,0,Chinnaswamy Stadium,Royal Challengers Bangalore,field,Player14
+2020,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,0,4,Eden Gardens,Punjab Kings,field,Player16
+2020,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,0,2,Eden Gardens,Kolkata Knight Riders,field,Player24
+2020,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,45,0,MA Chidambaram Stadium,Royal Challengers Bangalore,bat,Player44
+2020,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,57,0,Eden Gardens,Punjab Kings,field,Player38
+2020,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,93,0,Chinnaswamy Stadium,Royal Challengers Bangalore,bat,Player45
+2020,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,0,8,MA Chidambaram Stadium,Rajasthan Royals,field,Player44
+2020,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,0,2,MA Chidambaram Stadium,Delhi Capitals,bat,Player37
+2020,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,0,8,Eden Gardens,Chennai Super Kings,bat,Player42
+2020,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,0,4,Chinnaswamy Stadium,Royal Challengers Bangalore,bat,Player19
+2020,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,0,3,Rajiv Gandhi Stadium,Sunrisers Hyderabad,field,Player22
+2020,Punjab Kings,Rajasthan Royals,Punjab Kings,3,0,Wankhede Stadium,Rajasthan Royals,field,Player23
+2020,Delhi Capitals,Mumbai Indians,Mumbai Indians,73,0,MA Chidambaram Stadium,Delhi Capitals,bat,Player47
+2020,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,0,7,Rajiv Gandhi Stadium,Sunrisers Hyderabad,field,Player34
+2020,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,0,9,Rajiv Gandhi Stadium,Punjab Kings,field,Player41
+2020,Mumbai Indians,Rajasthan Royals,Mumbai Indians,0,2,MA Chidambaram Stadium,Mumbai Indians,bat,Player11
+2020,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,7,0,Wankhede Stadium,Delhi Capitals,field,Player2
+2020,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0,6,Eden Gardens,Kolkata Knight Riders,field,Player49
+2020,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,59,0,MA Chidambaram Stadium,Chennai Super Kings,field,Player44
+2020,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,0,4,Rajiv Gandhi Stadium,Punjab Kings,field,Player27
+2020,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,0,7,Rajiv Gandhi Stadium,Royal Challengers Bangalore,field,Player12
+2020,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,63,0,Feroz Shah Kotla,Sunrisers Hyderabad,field,Player36
+2020,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,0,4,Chinnaswamy Stadium,Delhi Capitals,bat,Player47
+2020,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,16,0,Rajiv Gandhi Stadium,Delhi Capitals,bat,Player45
+2020,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,29,0,Eden Gardens,Kolkata Knight Riders,field,Player47
+2020,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,21,0,Feroz Shah Kotla,Delhi Capitals,bat,Player29
+2020,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,36,0,MA Chidambaram Stadium,Mumbai Indians,field,Player16
+2020,Chennai Super Kings,Delhi Capitals,Delhi Capitals,0,3,MA Chidambaram Stadium,Chennai Super Kings,bat,Player29
+2020,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,0,4,Wankhede Stadium,Kolkata Knight Riders,bat,Player19
+2020,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,79,0,Wankhede Stadium,Rajasthan Royals,bat,Player32
+2020,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,20,0,Rajiv Gandhi Stadium,Kolkata Knight Riders,bat,Player22
+2020,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,0,2,Feroz Shah Kotla,Sunrisers Hyderabad,bat,Player42
+2020,Rajasthan Royals,Punjab Kings,Punjab Kings,94,0,Eden Gardens,Rajasthan Royals,bat,Player31
+2020,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,0,2,Eden Gardens,Punjab Kings,field,Player2
+2021,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,96,0,Rajiv Gandhi Stadium,Chennai Super Kings,bat,Player31
+2021,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,85,0,Chinnaswamy Stadium,Royal Challengers Bangalore,field,Player47
+2021,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,97,0,Eden Gardens,Sunrisers Hyderabad,field,Player1
+2021,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,0,7,MA Chidambaram Stadium,Kolkata Knight Riders,field,Player4
+2021,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,40,0,MA Chidambaram Stadium,Kolkata Knight Riders,bat,Player45
+2021,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,0,1,Rajiv Gandhi Stadium,Sunrisers Hyderabad,bat,Player16
+2021,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,0,4,Rajiv Gandhi Stadium,Sunrisers Hyderabad,bat,Player32
+2021,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,0,8,Wankhede Stadium,Sunrisers Hyderabad,field,Player41
+2021,Delhi Capitals,Chennai Super Kings,Delhi Capitals,80,0,Feroz Shah Kotla,Chennai Super Kings,bat,Player20
+2021,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,80,0,MA Chidambaram Stadium,Kolkata Knight Riders,field,Player25
+2021,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,76,0,MA Chidambaram Stadium,Chennai Super Kings,field,Player32
+2021,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,0,7,Chinnaswamy Stadium,Royal Challengers Bangalore,bat,Player36
+2021,Punjab Kings,Delhi Capitals,Punjab Kings,0,9,Rajiv Gandhi Stadium,Delhi Capitals,bat,Player15
+2021,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,0,7,Feroz Shah Kotla,Delhi Capitals,field,Player14
+2021,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,0,2,MA Chidambaram Stadium,Chennai Super Kings,field,Player6
+2021,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,0,4,Wankhede Stadium,Delhi Capitals,bat,Player45
+2021,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,0,3,Feroz Shah Kotla,Kolkata Knight Riders,field,Player5
+2021,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,78,0,Rajiv Gandhi Stadium,Delhi Capitals,field,Player16
+2021,Mumbai Indians,Delhi Capitals,Mumbai Indians,0,7,Rajiv Gandhi Stadium,Delhi Capitals,bat,Player44
+2021,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,44,0,MA Chidambaram Stadium,Mumbai Indians,bat,Player27
+2021,Kolkata Knight Riders,Punjab Kings,Punjab Kings,0,1,Feroz Shah Kotla,Kolkata Knight Riders,bat,Player17
+2021,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0,7,Feroz Shah Kotla,Kolkata Knight Riders,field,Player35
+2021,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,0,9,Rajiv Gandhi Stadium,Mumbai Indians,bat,Player5
+2021,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,0,7,Wankhede Stadium,Royal Challengers Bangalore,field,Player23
+2021,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,54,0,Eden Gardens,Punjab Kings,field,Player26
+2021,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,0,3,Wankhede Stadium,Punjab Kings,field,Player47
+2021,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,84,0,Rajiv Gandhi Stadium,Chennai Super Kings,bat,Player48
+2021,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,0,3,Feroz Shah Kotla,Royal Challengers Bangalore,field,Player12
+2021,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,39,0,Chinnaswamy Stadium,Kolkata Knight Riders,field,Player19
+2021,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,13,0,Feroz Shah Kotla,Royal Challengers Bangalore,bat,Player22
+2021,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,86,0,Eden Gardens,Kolkata Knight Riders,field,Player8
+2021,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,26,0,Eden Gardens,Chennai Super Kings,field,Player9
+2021,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,51,0,Chinnaswamy Stadium,Kolkata Knight Riders,bat,Player14
+2021,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,11,0,Rajiv Gandhi Stadium,Chennai Super Kings,bat,Player19
+2021,Punjab Kings,Delhi Capitals,Delhi Capitals,0,6,Wankhede Stadium,Delhi Capitals,field,Player1
+2021,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,0,8,Eden Gardens,Royal Challengers Bangalore,bat,Player4
+2021,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,0,3,Feroz Shah Kotla,Mumbai Indians,field,Player24
+2021,Punjab Kings,Mumbai Indians,Punjab Kings,54,0,Wankhede Stadium,Mumbai Indians,field,Player4
+2021,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,0,6,Wankhede Stadium,Royal Challengers Bangalore,bat,Player23
+2021,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,57,0,MA Chidambaram Stadium,Chennai Super Kings,field,Player29
+2021,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0,3,Rajiv Gandhi Stadium,Mumbai Indians,bat,Player3
+2021,Punjab Kings,Delhi Capitals,Delhi Capitals,0,8,Wankhede Stadium,Punjab Kings,field,Player42
+2021,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,0,6,Chinnaswamy Stadium,Punjab Kings,field,Player23
+2021,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,0,1,MA Chidambaram Stadium,Mumbai Indians,bat,Player10
+2021,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,0,2,Rajiv Gandhi Stadium,Chennai Super Kings,field,Player33
+2021,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,0,2,Chinnaswamy Stadium,Mumbai Indians,field,Player43
+2021,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,71,0,Rajiv Gandhi Stadium,Chennai Super Kings,bat,Player35
+2021,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,36,0,MA Chidambaram Stadium,Sunrisers Hyderabad,bat,Player43
+2021,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,0,3,Eden Gardens,Royal Challengers Bangalore,bat,Player4
+2021,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,0,7,Wankhede Stadium,Mumbai Indians,field,Player30
+2021,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,0,4,MA Chidambaram Stadium,Royal Challengers Bangalore,bat,Player7
+2021,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,0,7,MA Chidambaram Stadium,Sunrisers Hyderabad,field,Player6
+2021,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,18,0,Rajiv Gandhi Stadium,Kolkata Knight Riders,field,Player42
+2021,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,0,6,Rajiv Gandhi Stadium,Mumbai Indians,bat,Player9
+2021,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,29,0,Wankhede Stadium,Delhi Capitals,field,Player15
+2021,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,44,0,Rajiv Gandhi Stadium,Sunrisers Hyderabad,bat,Player7
+2021,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0,5,MA Chidambaram Stadium,Royal Challengers Bangalore,field,Player31
+2021,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,82,0,Chinnaswamy Stadium,Chennai Super Kings,field,Player29
+2021,Punjab Kings,Delhi Capitals,Delhi Capitals,0,6,MA Chidambaram Stadium,Punjab Kings,bat,Player21
+2021,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,14,0,Chinnaswamy Stadium,Royal Challengers Bangalore,field,Player49
+2022,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,0,5,Feroz Shah Kotla,Royal Challengers Bangalore,bat,Player32
+2022,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,15,0,Feroz Shah Kotla,Royal Challengers Bangalore,bat,Player3
+2022,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,79,0,Eden Gardens,Chennai Super Kings,field,Player47
+2022,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,67,0,MA Chidambaram Stadium,Sunrisers Hyderabad,bat,Player4
+2022,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,8,0,Feroz Shah Kotla,Royal Challengers Bangalore,field,Player9
+2022,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,71,0,Rajiv Gandhi Stadium,Rajasthan Royals,bat,Player22
+2022,Punjab Kings,Mumbai Indians,Punjab Kings,0,1,MA Chidambaram Stadium,Punjab Kings,field,Player46
+2022,Punjab Kings,Mumbai Indians,Punjab Kings,0,9,Wankhede Stadium,Mumbai Indians,field,Player46
+2022,Punjab Kings,Delhi Capitals,Punjab Kings,0,9,Eden Gardens,Delhi Capitals,bat,Player5
+2022,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0,2,Eden Gardens,Mumbai Indians,bat,Player28
+2022,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,9,0,Chinnaswamy Stadium,Kolkata Knight Riders,bat,Player4
+2022,Delhi Capitals,Mumbai Indians,Mumbai Indians,0,3,MA Chidambaram Stadium,Mumbai Indians,field,Player16
+2022,Punjab Kings,Rajasthan Royals,Rajasthan Royals,13,0,Feroz Shah Kotla,Punjab Kings,field,Player18
+2022,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,0,7,Feroz Shah Kotla,Chennai Super Kings,bat,Player12
+2022,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,55,0,Eden Gardens,Rajasthan Royals,bat,Player39
+2022,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,0,6,Feroz Shah Kotla,Chennai Super Kings,field,Player41
+2022,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,86,0,Rajiv Gandhi Stadium,Mumbai Indians,field,Player12
+2022,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,0,1,Eden Gardens,Kolkata Knight Riders,bat,Player49
+2022,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,0,3,Rajiv Gandhi Stadium,Sunrisers Hyderabad,field,Player23
+2022,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,0,3,Chinnaswamy Stadium,Kolkata Knight Riders,field,Player8
+2022,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,0,5,MA Chidambaram Stadium,Punjab Kings,bat,Player25
+2022,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,64,0,Eden Gardens,Mumbai Indians,bat,Player32
+2022,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,0,7,Wankhede Stadium,Delhi Capitals,bat,Player39
+2022,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,0,2,Eden Gardens,Rajasthan Royals,field,Player42
+2022,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,0,6,Eden Gardens,Rajasthan Royals,bat,Player45
+2022,Mumbai Indians,Punjab Kings,Mumbai Indians,0,8,Feroz Shah Kotla,Mumbai Indians,bat,Player23
+2022,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,92,0,Wankhede Stadium,Delhi Capitals,bat,Player2
+2022,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,6,0,Eden Gardens,Mumbai Indians,bat,Player38
+2022,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,0,2,Eden Gardens,Delhi Capitals,bat,Player35
+2022,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,0,1,Chinnaswamy Stadium,Mumbai Indians,field,Player45
+2022,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,0,9,Feroz Shah Kotla,Royal Challengers Bangalore,field,Player43
+2022,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0,3,Eden Gardens,Chennai Super Kings,field,Player9
+2022,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,34,0,Chinnaswamy Stadium,Royal Challengers Bangalore,bat,Player18
+2022,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,6,0,Feroz Shah Kotla,Mumbai Indians,field,Player32
+2022,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,10,0,Rajiv Gandhi Stadium,Mumbai Indians,field,Player18
+2022,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,95,0,Chinnaswamy Stadium,Kolkata Knight Riders,field,Player9
+2022,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,0,1,Eden Gardens,Sunrisers Hyderabad,field,Player5
+2022,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,18,0,MA Chidambaram Stadium,Rajasthan Royals,bat,Player4
+2022,Chennai Super Kings,Delhi Capitals,Delhi Capitals,95,0,Wankhede Stadium,Delhi Capitals,bat,Player48
+2022,Rajasthan Royals,Delhi Capitals,Delhi Capitals,94,0,Feroz Shah Kotla,Rajasthan Royals,bat,Player37
+2022,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,0,8,Feroz Shah Kotla,Chennai Super Kings,bat,Player10
+2022,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,2,0,Rajiv Gandhi Stadium,Mumbai Indians,field,Player23
+2022,Rajasthan Royals,Punjab Kings,Rajasthan Royals,29,0,Rajiv Gandhi Stadium,Punjab Kings,bat,Player5
+2022,Rajasthan Royals,Punjab Kings,Rajasthan Royals,50,0,Chinnaswamy Stadium,Punjab Kings,bat,Player17
+2022,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,92,0,MA Chidambaram Stadium,Sunrisers Hyderabad,field,Player3
+2022,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,84,0,Feroz Shah Kotla,Chennai Super Kings,field,Player19
+2022,Delhi Capitals,Punjab Kings,Punjab Kings,0,8,Wankhede Stadium,Punjab Kings,bat,Player25
+2022,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,14,0,Wankhede Stadium,Kolkata Knight Riders,field,Player36
+2022,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,89,0,Rajiv Gandhi Stadium,Delhi Capitals,bat,Player8
+2022,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,0,3,MA Chidambaram Stadium,Chennai Super Kings,bat,Player45
+2022,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,0,2,Chinnaswamy Stadium,Sunrisers Hyderabad,field,Player24
+2022,Chennai Super Kings,Punjab Kings,Punjab Kings,25,0,Wankhede Stadium,Punjab Kings,field,Player11
+2022,Chennai Super Kings,Punjab Kings,Chennai Super Kings,0,2,Chinnaswamy Stadium,Chennai Super Kings,bat,Player38
+2022,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,0,5,Rajiv Gandhi Stadium,Rajasthan Royals,bat,Player30
+2022,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,0,6,Eden Gardens,Royal Challengers Bangalore,bat,Player45
+2022,Mumbai Indians,Delhi Capitals,Mumbai Indians,0,8,Rajiv Gandhi Stadium,Delhi Capitals,bat,Player3
+2022,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,27,0,Wankhede Stadium,Delhi Capitals,field,Player38
+2022,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,75,0,MA Chidambaram Stadium,Rajasthan Royals,bat,Player36
+2022,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,81,0,Eden Gardens,Mumbai Indians,bat,Player48
+2022,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,62,0,Eden Gardens,Royal Challengers Bangalore,field,Player48
